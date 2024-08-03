@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineShop_ASP_MVC
+build_property.RootNamespace = OnlineShop_ASP_MVC
+build_property.ProjectDir = F:\C#_MVC\OnlineShop_ASP_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\C#_MVC\OnlineShop_ASP_MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXEhhbmdIb2FzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXEhhbmdIb2FzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXEhhbmdIb2FzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXEhhbmdIb2FzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXEhhbmdIb2FzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXFNoYXJlZFxGb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/_LayoutCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXFNoYXJlZFxfTGF5b3V0Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQLS5OZXRfRWNvbW1lcmNlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-e0qmswk1ny

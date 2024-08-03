@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OnlineShop_ASP_MVC.props" />
+</Project>
