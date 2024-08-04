@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9KzlnelfUu1WRvqC9p8RhpJ3zD2XvEmVrFO9cMJs6ItwyOS0mM/z2/qrt71Q/RXJTo+mHmF/Llbl65NYpWHU4Q==",
+  "dgSpecHash": "pFYL0EixbTrzGfYc3keasEfBeTaOpEQeHiq/wkVa5nxemjtv8trw22Hb5ZSCVmpC1jkOes3jlFAyjDN0oSpQSA==",
   "success": true,
-  "projectFilePath": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\OnlineShop_ASP_MVC.csproj",
+  "projectFilePath": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\OnlineShop_ASP_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

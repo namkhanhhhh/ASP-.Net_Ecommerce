@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#_MVC\\OnlineShop_ASP_MVC\\OnlineShop_ASP_MVC.csproj": {}
+    "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\OnlineShop_ASP_MVC.csproj": {}
   },
   "projects": {
-    "F:\\C#_MVC\\OnlineShop_ASP_MVC\\OnlineShop_ASP_MVC.csproj": {
+    "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\OnlineShop_ASP_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\OnlineShop_ASP_MVC.csproj",
+        "projectUniqueName": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\OnlineShop_ASP_MVC.csproj",
         "projectName": "OnlineShop_ASP_MVC",
-        "projectPath": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\OnlineShop_ASP_MVC.csproj",
+        "projectPath": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\OnlineShop_ASP_MVC.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\obj\\",
+        "outputPath": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
