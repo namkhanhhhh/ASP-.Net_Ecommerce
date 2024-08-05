@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using OnlineShop_ASP_MVC.Data;
 using OnlineShop_ASP_MVC.ViewModels;
 
@@ -45,6 +46,31 @@ namespace OnlineShop_ASP_MVC.Controllers
                 Cname = p.MaLoaiNavigation.TenLoai
             });
             return View(res);
+        }
+
+        public IActionResult Detail(int id)
+        {
+            var data=db.HangHoas
+                .Include(p=>p.MaLoaiNavigation)
+                .SingleOrDefault(p=>p.MaHh==id);
+            if (data == null)
+            {
+                TempData["Message"] = "Not found!";
+                return Redirect("/404");
+            }
+            var result = new ProductDetailVM
+            {
+                Id = data.MaHh,
+                Name = data.TenHh,
+                Price = data.DonGia ?? 0,
+                Specific = data.MoTa ?? string.Empty,
+                Rate = 5,
+                Img=data.Hinh??string.Empty,
+                Description=data.MoTaDonVi??string.Empty,
+                CQuantity=10,
+                Cname=data.MaLoaiNavigation.TenLoai
+            };
+            return View(result);
         }
     }
 }

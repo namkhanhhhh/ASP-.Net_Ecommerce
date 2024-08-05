@@ -18,6 +18,12 @@ namespace OnlineShop_ASP_MVC.Controllers
             return View();
         }
 
+        [Route("/404")]
+        public IActionResult PNotFound()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

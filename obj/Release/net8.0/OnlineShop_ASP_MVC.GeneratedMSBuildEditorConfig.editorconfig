@@ -46,16 +46,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoa/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoa/ProductItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxQcm9kdWN0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/HangHoa/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Home/PNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/Components/MenuType/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVR5cGVcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/Error.cshtml]
@@ -68,6 +88,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/_LayoutCustomer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/_ProductDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0RGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/_SearchPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hQYW5lbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/C\#_MVC/OnlineShop_ASP_MVC/ASP-.Net_Ecommerce/Views/Shared/_ValidationScriptsPartial.cshtml]

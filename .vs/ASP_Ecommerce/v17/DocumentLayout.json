@@ -3,31 +3,39 @@
   "WorkspaceRootPath": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\views\\shared\\_productdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\shared\\_productdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\wwwroot\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:wwwroot\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\views\\shared\\_productdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\shared\\_productdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\viewmodels\\menutypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|f:\\c#_mvc\\onlineshop_asp_mvc\\asp-.net_ecommerce\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\viewmodels\\menutypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A12DF553-63A0-45C3-8CED-58F85DB290C2}|OnlineShop_ASP_MVC.csproj|solutionrelative:viewmodels\\menutypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,58 +71,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "shop-detail.html",
+              "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\wwwroot\\shop-detail.html",
+              "RelativeDocumentMoniker": "wwwroot\\shop-detail.html",
+              "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\wwwroot\\shop-detail.html",
+              "RelativeToolTip": "wwwroot\\shop-detail.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-05T16:22:48.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAANgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T16:21:11.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\ProductItem.cshtml",
+              "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\ProductItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T14:54:15.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T07:44:36.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_LayoutCustomer.cshtml",
               "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
               "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAAAIQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T16:05:14.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Search.cshtml",
               "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\Search.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\Search.cshtml",
               "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\Search.cshtml",
               "RelativeToolTip": "Views\\HangHoa\\Search.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T16:01:52.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_ProductDashboard.cshtml",
               "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\Shared\\_ProductDashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ProductDashboard.cshtml",
               "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\Shared\\_ProductDashboard.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ProductDashboard.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAA/AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T15:35:28.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductVM.cs",
-              "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\ViewModels\\ProductVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ProductVM.cs",
-              "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\ViewModels\\ProductVM.cs",
-              "RelativeToolTip": "ViewModels\\ProductVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T14:07:55.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MenuTypeVM.cs",
               "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\ViewModels\\MenuTypeVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\MenuTypeVM.cs",
@@ -122,21 +169,7 @@
               "RelativeToolTip": "ViewModels\\MenuTypeVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T10:11:56.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
-              "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Views\\HangHoa\\Index.cshtml",
-              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T07:44:36.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T10:11:56.429Z"
             },
             {
               "$type": "Document",
@@ -146,7 +179,7 @@
               "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
               "ToolTip": "F:\\C#_MVC\\OnlineShop_ASP_MVC\\ASP-.Net_Ecommerce\\Controllers\\HangHoaController.cs",
               "RelativeToolTip": "Controllers\\HangHoaController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwBMAAAA4AAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwEgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T13:40:41.033Z",
               "EditorCaption": ""

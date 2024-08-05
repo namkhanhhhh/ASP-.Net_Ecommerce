@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
+    "\\Views",
+    "\\Views\\HangHoa",
     "\\wwwroot"
   ],
-  "SelectedNode": "\\Controllers\\HangHoaController.cs",
+  "SelectedNode": "\\Views\\HangHoa\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
