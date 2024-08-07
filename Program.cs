@@ -15,6 +15,14 @@ namespace OnlineShop_ASP_MVC
                 options.UseSqlServer(builder.Configuration.GetConnectionString("HShop"));
             });
 
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddSession(option =>
+            {
+                option.IdleTimeout = TimeSpan.FromSeconds(1000);
+                option.Cookie.HttpOnly = true;
+                option.Cookie.IsEssential = true;
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -27,7 +35,7 @@ namespace OnlineShop_ASP_MVC
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            app.UseSession();
             app.UseRouting();
 
             app.UseAuthorization();
