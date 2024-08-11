@@ -505,3 +505,5 @@ F:\C#_MVC\OnlineShop_ASP_MVC\ASP-.Net_Ecommerce\obj\Debug\net8.0\refint\OnlineSh
 F:\C#_MVC\OnlineShop_ASP_MVC\ASP-.Net_Ecommerce\obj\Debug\net8.0\OnlineShop_ASP_MVC.pdb
 F:\C#_MVC\OnlineShop_ASP_MVC\ASP-.Net_Ecommerce\obj\Debug\net8.0\OnlineShop_ASP_MVC.genruntimeconfig.cache
 F:\C#_MVC\OnlineShop_ASP_MVC\ASP-.Net_Ecommerce\obj\Debug\net8.0\ref\OnlineShop_ASP_MVC.dll
+F:\C#_MVC\OnlineShop_ASP_MVC\ASP-.Net_Ecommerce\bin\Debug\net8.0\AutoMapper.dll
+F:\C#_MVC\OnlineShop_ASP_MVC\ASP-.Net_Ecommerce\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

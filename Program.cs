@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using OnlineShop_ASP_MVC.Data;
+using OnlineShop_ASP_MVC.Helper;
 
 namespace OnlineShop_ASP_MVC
 {
@@ -22,6 +23,8 @@ namespace OnlineShop_ASP_MVC
                 option.Cookie.HttpOnly = true;
                 option.Cookie.IsEssential = true;
             });
+
+            builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
             var app = builder.Build();
 

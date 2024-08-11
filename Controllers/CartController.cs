@@ -13,8 +13,7 @@ namespace OnlineShop_ASP_MVC.Controllers
             db = hshop2023Context;
         }
 
-        const string CART_KEY="MYCART";
-        public List<CartItem> GetCart=>HttpContext.Session.Get<List<CartItem>>(CART_KEY)??new List<CartItem>();
+        public List<CartItem> GetCart=>HttpContext.Session.Get<List<CartItem>>(Setting.CART_KEY)??new List<CartItem>();
         public IActionResult Index()
         {
             return View(GetCart);
@@ -46,7 +45,7 @@ namespace OnlineShop_ASP_MVC.Controllers
             {
                 item.Quantity += quantity;
             }
-            HttpContext.Session.Set(CART_KEY, cart);
+            HttpContext.Session.Set(Setting.CART_KEY, cart);
             return RedirectToAction("Index");
         }
 
@@ -57,7 +56,7 @@ namespace OnlineShop_ASP_MVC.Controllers
             if(item != null)
             {
                 cart.Remove(item);
-                HttpContext.Session.Set(CART_KEY, cart);
+                HttpContext.Session.Set(Setting.CART_KEY, cart);
             }
             
             return RedirectToAction("Index");
