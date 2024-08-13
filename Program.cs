@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using OnlineShop_ASP_MVC.Data;
 using OnlineShop_ASP_MVC.Helper;
@@ -19,9 +20,15 @@ namespace OnlineShop_ASP_MVC
             builder.Services.AddDistributedMemoryCache();
             builder.Services.AddSession(option =>
             {
-                option.IdleTimeout = TimeSpan.FromSeconds(1000);
+                option.IdleTimeout = TimeSpan.FromHours(1000);
                 option.Cookie.HttpOnly = true;
                 option.Cookie.IsEssential = true;
+            });
+
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
+            {
+                options.LoginPath = "/Customer/Login";
+                options.AccessDeniedPath = "/AccessDenied";
             });
 
             builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
@@ -40,7 +47,7 @@ namespace OnlineShop_ASP_MVC
             app.UseStaticFiles();
             app.UseSession();
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(

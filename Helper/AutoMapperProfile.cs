@@ -7,8 +7,11 @@ namespace OnlineShop_ASP_MVC.Helper
 {
     public class AutoMapperProfile:Profile
     {
-        public AutoMapperProfile() {
-            CreateMap<RegisterVM, KhachHang>().ForMember(c=>c.HoTen, op=>op.MapFrom(RegisterVM=>RegisterVM.Name)).ReverseMap();
-        }
-    }
+		public AutoMapperProfile()
+		{
+			CreateMap<RegisterVM, KhachHang>();
+			//.ForMember(kh => kh.HoTen, option => option.MapFrom(RegisterVM => RegisterVM.HoTen))
+			//.ReverseMap();
+		}
+	}
 }

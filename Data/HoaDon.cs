@@ -13,6 +13,8 @@ public partial class HoaDon
 
     public DateTime? NgayCan { get; set; }
 
+    public string? DienThoai { get; set; }
+
     public DateTime? NgayGiao { get; set; }
 
     public string? HoTen { get; set; }
